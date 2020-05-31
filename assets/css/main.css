@@ -1,0 +1,8 @@
+body {
+  background: rgb(221, 221, 221);
+  min-height: 100vh;
+}
+
+:focus {
+  outline: none !important;
+}
